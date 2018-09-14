@@ -1005,6 +1005,7 @@
 					}
 
 					#header nav > ul > li .button {
+						background-color: #3cadd4;
 						height: 2.25em;
 						line-height: 2.25em;
 						margin-bottom: 0;
@@ -1013,6 +1014,10 @@
 						top: -0.075em;
 						vertical-align: middle;
 					}
+					#header nav > ul > li .button:hover {
+						background-color: #444751;
+					}
+
 
 		#header .container {
 			position: relative;
