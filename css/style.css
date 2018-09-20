@@ -1001,7 +1001,8 @@
 						-ms-transition: color 0.2s ease-in-out;
 						transition: color 0.2s ease-in-out;
 						color: #303030;
-						display: inline-block;
+						display: inline;
+						padding-bottom: 2.3em;
 						text-decoration: none;
 					}
 
