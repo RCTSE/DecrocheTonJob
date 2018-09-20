@@ -1029,7 +1029,9 @@
 /* Banner */
 
 	#banner {
-		background-image: url(../images/dark_tint.png), url(../images/base.jpg);
+		background-image: url(../images/dark_tint.png);
+		background-color: rgba(200,100,0,.5); // Tint color
+  		background-blend-mode: multiply;
 		background-position: center center;
 		background-size: cover;
 		color: #ffffff;
