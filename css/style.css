@@ -156,6 +156,10 @@
 
 /* Section/Article */
 
+	main {
+		padding-top: 6em;
+	}
+
 	section.special, article.special {
 		text-align: center;
 	}
@@ -935,14 +939,16 @@
 		}
 
 	#header {
-		background-color: #383b43;
-		color: #ffffff;
+		background-color: #efefef;
+		color: #3f3f3f; !important
 		cursor: default;
-		font-size: 1.1em;
 		height: 6em;
 		line-height: 6em;
 		width: 100%;
 		z-index: 10000;
+		box-shadow: 0 0 5px 0 rgba(0,0,0,.3);
+   	 	overflow: hidden;
+    		position: fixed;
 	}
 
 		#header h1 {
