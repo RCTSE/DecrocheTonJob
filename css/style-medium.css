@@ -30,7 +30,16 @@
 		display: none;
 	}
 
+	header.major h2 {
+	    padding-bottom: 1em;
+	}
+
 /* Banner */
+
+	#main {
+		padding-top: 8em;
+		background-image: url(../images/dark_tint.png), url(../images/bancoach.jpg);
+	}
 
 	#banner {
 		padding: 6em 0em 6em;
