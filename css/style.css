@@ -1030,7 +1030,7 @@
 
 	#banner {
 		background-image: url(../images/base.jpg);
-		background-color: rgba(200,100,0,.5); // Tint color
+		background-color: rgba(20, 30, 40, .5); // Tint color
   		background-blend-mode: multiply;
 		background-position: center center;
 		background-size: cover;
