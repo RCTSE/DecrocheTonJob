@@ -927,6 +927,10 @@
 		}
 
 /* Header */
+	
+	#active {
+	    border-bottom: 2px solid #448aff;
+	}
 
 	body.landing #header {
 		background-color: transparent;
@@ -998,7 +1002,7 @@
 					}
 
 						#header nav > ul > li a:active, #header nav > ul > li a:hover {
-							color: #ffffff;
+							color: #3cadd4;
 						}
 
 					#header nav > ul > li:first-child {
