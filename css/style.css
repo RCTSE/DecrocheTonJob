@@ -940,7 +940,11 @@
 	}
 
 		body.landing #header nav a {
-			color: rgba(255, 255, 255, 0.5);
+			color: white;
+		}
+
+		body.landing #header h1 a {
+			color: white;
 		}
 
 	#header {
