@@ -962,7 +962,8 @@
 		}
 
 			#header h1 a {
-				font-size: 1.25em;
+				font-size: 1.20em;
+				color: #515151;
 			}
 
 		#header nav {
@@ -992,7 +993,7 @@
 						-o-transition: color 0.2s ease-in-out;
 						-ms-transition: color 0.2s ease-in-out;
 						transition: color 0.2s ease-in-out;
-						color: #cdced0;
+						color: #303030;
 						display: inline-block;
 						text-decoration: none;
 					}
