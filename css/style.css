@@ -149,7 +149,7 @@
 	}
 
 	.descriptionOffres {
-		padding-left: 6em;
+		padding-left: 6em !important;
 	}
 
 	.align-left {
