@@ -580,7 +580,7 @@
 
 /* List */
 
-	.descriptionOffres {
+	.bulletPointDescription {
 		text-align: left;
     		list-style-position: inside;
     		display: inline-block;
