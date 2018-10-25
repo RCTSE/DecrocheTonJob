@@ -580,6 +580,13 @@
 
 /* List */
 
+	.descriptionOffres {
+		text-align: left;
+    		list-style-position: inside;
+    		display: inline-block;
+		font-size: 1.3em;
+	}
+
 	ol {
 		list-style: decimal;
 		margin: 0 0 2em 0;
@@ -593,12 +600,7 @@
 	ul {
 		list-style: disc;
 		margin: 0 0 2em 0;
-		padding-left: 1em;
 	}
-
-		ul li {
-			padding-left: 0.5em;
-		}
 
 		ul.alt {
 			list-style: none;
