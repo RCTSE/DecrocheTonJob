@@ -20,6 +20,11 @@
 		font-size: 1.25em;
 	}
 
+	.prix {
+	    padding-top: 0.5em;
+	    margin-bottom: 1em;
+	}
+
 /* Header */
 
 	#skel-layers-wrapper {
