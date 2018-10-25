@@ -148,6 +148,10 @@
     		font-weight: bold;
 	}
 
+	.descriptionOffres {
+		padding-left: 6em;
+	}
+
 	.align-left {
 		text-align: left;
 	}
