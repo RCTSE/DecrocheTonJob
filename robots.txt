@@ -1,0 +1,4 @@
+# Règle 1
+
+
+Sitemap: http://www.example.com/sitemap.xml
