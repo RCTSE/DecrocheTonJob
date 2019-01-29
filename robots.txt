@@ -1,4 +1,4 @@
 # Règle 1
 
 
-Sitemap: http://www.example.com/sitemap.xml
+Sitemap: http://decrochetonjob.ovh/sitemap.xml
